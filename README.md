@@ -6,7 +6,7 @@ A Large Scale Fish Dataset
     Bu veri seti, balık türlerini sınıflandırmak için kullanılabilecek büyük ölçekli bir görüntü koleksiyonudur. Derin öğrenme modelleriyle balık türlerini otomatik olarak tanıma ve sınıflandırma görevleri için ideal bir eğitim verisidir.  
     Veri setinde genellikle yüksek çözünürlüklü renkli görüntüler vardı.Her balık türüne ait etiket vardı.Görüntüler .jpg ve .png formatında,etiketler ise csv dosyasında yer alıyor.
 
-       ![image](https://github.com/user-attachments/assets/6c237ded-ac39-4c54-b67e-b69fc346e796)  
+       /![image](https://github.com/user-attachments/assets/6c237ded-ac39-4c54-b67e-b69fc346e796)  
 
        Balık türlerinin dağılımını görselleştirmek istedim.İlk olarak sınıf etiketlerini kodladım daha sonra etiketleri değiştirdim.
 
